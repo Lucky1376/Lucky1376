@@ -1,2 +1,2 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucky1376&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Vkontakte](https://img.shields.io/badge/Vkontakte-black?style=for-the-badge&logo=VK)](https://vk.com/vkponos) [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram)](https://t.me/Lucky1376)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram)](https://t.me/Lucky1376)
